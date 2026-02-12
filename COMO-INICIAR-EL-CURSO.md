@@ -47,7 +47,7 @@ Si prefieres usar la terminal:
 
 ```bash
 # Asegúrate de estar en el repositorio
-cd skills-introduction-to-githubx
+cd tu-repositorio  # Reemplaza con el nombre de tu repositorio
 
 # Crea y cambia a la nueva rama desde main
 git checkout -b my-first-branch main

@@ -47,7 +47,7 @@ If you prefer using the terminal:
 
 ```bash
 # Make sure you're in the repository
-cd skills-introduction-to-githubx
+cd your-repository  # Replace with your repository name
 
 # Create and switch to the new branch from main
 git checkout -b my-first-branch main
