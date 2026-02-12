@@ -9,6 +9,8 @@ El curso ha sido **iniciado exitosamente**. El sistema automatizado de GitHub Sk
 - ✅ Preparado el entorno de aprendizaje
 - ✅ Activado los flujos de trabajo de GitHub Actions
 
+> 💡 **Nota:** Si no ves el Issue #2, ve a la [pestaña Issues](../../issues) para verificar. El issue debería haberse creado automáticamente cuando se copió el repositorio.
+
 ## 📋 Qué Aprenderás
 
 En este curso aprenderás a:

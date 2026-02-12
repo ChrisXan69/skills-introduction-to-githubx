@@ -9,6 +9,8 @@ The course has been **successfully initiated**. The GitHub Skills automated syst
 - ✅ Prepared the learning environment
 - ✅ Activated GitHub Actions workflows
 
+> 💡 **Note:** If you don't see Issue #2, go to the [Issues tab](../../issues) to verify. The issue should have been created automatically when the repository was copied.
+
 ## 📋 What You'll Learn
 
 In this course you will learn to:
