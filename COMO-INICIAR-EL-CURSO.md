@@ -23,7 +23,7 @@ Para avanzar al siguiente paso del curso, necesitas crear una rama llamada `my-f
 
 ### Opción 1: Usando la Interfaz Web de GitHub (Recomendado)
 
-1. Abre tu repositorio: https://github.com/ChrisXan69/skills-introduction-to-githubx
+1. Abre tu repositorio en GitHub (la página donde estás viendo este archivo)
 
 2. Haz clic en la pestaña **< > Code** en el menú superior
 
@@ -58,7 +58,7 @@ git push -u origin my-first-branch
 
 ## 📚 Recursos Útiles
 
-- **[Issue #2: Instrucciones Detalladas del Curso](https://github.com/ChrisXan69/skills-introduction-to-githubx/issues/2)** - Revisa aquí para ver las instrucciones completas y el progreso
+- **[Issue #2: Instrucciones Detalladas del Curso](../../issues/2)** - Revisa aquí para ver las instrucciones completas y el progreso
 - [Documentación de GitHub sobre Ramas](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
 - [Video: ¿Qué es GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
@@ -74,7 +74,7 @@ git push -u origin my-first-branch
 Si no ves progreso después de crear la rama:
 1. Espera unos 20-30 segundos para que GitHub Actions procese tu acción
 2. Verifica que la rama se llame exactamente `my-first-branch` (sin espacios extra ni mayúsculas)
-3. Revisa la pestaña [Actions](https://github.com/ChrisXan69/skills-introduction-to-githubx/actions) para ver si hay trabajos en ejecución
+3. Revisa la pestaña [Actions](../../actions) para ver si hay trabajos en ejecución
 4. Si persisten los problemas, reporta un issue en el [repositorio oficial del curso](https://github.com/skills/introduction-to-github/issues)
 
 ---

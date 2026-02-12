@@ -23,7 +23,7 @@ To advance to the next step of the course, you need to create a branch called `m
 
 ### Option 1: Using the GitHub Web Interface (Recommended)
 
-1. Open your repository: https://github.com/ChrisXan69/skills-introduction-to-githubx
+1. Open your repository on GitHub (the page where you're viewing this file)
 
 2. Click on the **< > Code** tab in the header menu
 
@@ -58,7 +58,7 @@ git push -u origin my-first-branch
 
 ## 📚 Useful Resources
 
-- **[Issue #2: Detailed Course Instructions](https://github.com/ChrisXan69/skills-introduction-to-githubx/issues/2)** - Check here for complete instructions and progress
+- **[Issue #2: Detailed Course Instructions](../../issues/2)** - Check here for complete instructions and progress
 - [GitHub Documentation on Branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
 - [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
@@ -74,7 +74,7 @@ git push -u origin my-first-branch
 If you don't see progress after creating the branch:
 1. Wait 20-30 seconds for GitHub Actions to process your action
 2. Verify that the branch is named exactly `my-first-branch` (no extra spaces or capital letters)
-3. Check the [Actions](https://github.com/ChrisXan69/skills-introduction-to-githubx/actions) tab to see if there are running jobs
+3. Check the [Actions](../../actions) tab to see if there are running jobs
 4. If problems persist, report an issue in the [official course repository](https://github.com/skills/introduction-to-github/issues)
 
 ---
